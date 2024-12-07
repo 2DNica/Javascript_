@@ -20,8 +20,3 @@ Il convertitore di temperatura prende un valore di input fornito dall'utente, lo
 - **CSS**: Per lo stile e il layout.
 - **JavaScript**: Per la logica di conversione della temperatura.
 
-## Installazione
-
-1. Clona il repository:
-   ```sh
-   git clone https://github.com/tuo_username/temperature-converter.git
