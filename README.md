@@ -2,7 +2,7 @@
 
 Questo progetto è un semplice convertitore di temperatura creato con JavaScript, HTML e CSS. Permette agli utenti di convertire le temperature tra Celsius e Fahrenheit utilizzando un'interfaccia utente semplice.
 
-![Temperature Converter Preview](Convezione_temperatura)
+![Temperature Converter Preview](Convezione_temperatura.png)
 
 ## Descrizione
 
